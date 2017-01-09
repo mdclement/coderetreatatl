@@ -1,3 +1,7 @@
 .background-gdcr {
-  background: url("../images/coderetreat-gdcr2012-wide.png") 50% 0px no-repeat;
+  background: url("../images/gdcr2016-wide.png") 0px no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
